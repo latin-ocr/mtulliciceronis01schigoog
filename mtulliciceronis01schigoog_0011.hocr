@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliciceronis01schigoog_0011.png"; bbox 0 0 3026 4350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 569 1955 1032 2024">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 569 1955 1032 2024">
+     <span class='ocr_line' id='line_1_1' title="bbox 569 1955 1032 2024; baseline 0.004 -13"><span class='ocrx_word' id='word_1_1' title='bbox 569 1955 644 2011; x_wconf 48' lang='lat' dir='ltr'>&amp;Ille</span> <span class='ocrx_word' id='word_1_2' title='bbox 668 1955 779 2023; x_wconf 62' lang='lat' dir='ltr'><strong>ffiechte</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1956 1032 2024; x_wconf 69' lang='lat' dir='ltr'>nothehalten.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 534 3582 1068 3638">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 534 3582 1068 3638">
+     <span class='ocr_line' id='line_1_2' title="bbox 534 3582 1068 3638; baseline -0.006 -9"><span class='ocrx_word' id='word_1_4' title='bbox 534 3584 599 3630; x_wconf 66' lang='lat' dir='ltr'>md</span> <span class='ocrx_word' id='word_1_5' title='bbox 613 3594 653 3629; x_wconf 75' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_6' title='bbox 667 3585 776 3629; x_wconf 61' lang='lat' dir='ltr'>&amp;tbtssbet</span> <span class='ocrx_word' id='word_1_7' title='bbox 789 3582 875 3633; x_wconf 58' lang='lat' dir='ltr'>&amp;level</span> <span class='ocrx_word' id='word_1_8' title='bbox 889 3586 913 3628; x_wconf 83' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 927 3583 1068 3638; x_wconf 54' lang='lat' dir='ltr'>ffieidaenhetq.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1518 4350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1518 4350">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1518 4350; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1518 4350; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
